@@ -1,0 +1,41 @@
+/* Adicione estilos personalizados para o formulário de login */
+
+/* Estilo para o container do formulário */
+.login-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilo para o título "Log in" */
+  .login-title {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  /* Estilo para os campos de entrada */
+  .login-field {
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para os botões */
+  .login-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff; /* Cor do botão */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .login-button:hover {
+    background-color: #0056b3; /* Cor do botão ao passar o mouse */
+  }
+  
